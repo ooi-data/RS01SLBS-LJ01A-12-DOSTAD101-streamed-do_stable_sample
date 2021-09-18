@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SLBS-LJ01A-12-DOSTAD101-streamed-do_stable_sample
 data_stream: RS01SLBS-LJ01A-12-DOSTAD101-streamed-do_stable_sample
-end_date: '2021-07-07T00:25:29.619Z'
-last_updated: '2021-07-19T19:53:44.524835'
+end_date: '2021-09-17T22:41:53.985Z'
+last_updated: '2021-09-18T01:14:57.635380Z'
 start_date: '2018-11-07T23:08:12.238Z'
-status: success
+status: pending
