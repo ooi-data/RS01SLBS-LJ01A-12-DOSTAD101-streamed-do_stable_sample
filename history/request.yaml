@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SLBS-LJ01A-12-DOSTAD101-streamed-do_stable_sample
-last_request: '2021-12-01T22:05:09.940053Z'
+last_request: '2021-12-04T01:25:33.746056Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SLBS-LJ01A-12-DOSTAD101-streamed-do_stable_sample/main/history/response.json
-status: success
+status: pending
